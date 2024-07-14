@@ -10,6 +10,38 @@ Es una empresa diseñada con fines creativos y de desarrallo de paginas web.
 
 Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Maria de los Angeles Garcia Cortez y Karla Yulenni Dominguez Amador.
 
+## Visión:
+Queremos ser la referencia en el desarrollo de soluciones web para negocios, estableciendo nuevos estándares en diseño, funcionalidad e innovación. Nuestro objetivo es ayudar a las empresas a crecer en el mercado digital y ser reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes.
+
+## Misión:
+En KRA, nuestra misión es diseñar páginas web atractivas y funcionales que conecten a las empresas con sus clientes.
+Creamos páginas web efectivas y de alta calidad que impulsan el éxito de los negocios. Nuestro enfoque se centra en entender las necesidades de nuestros clientes, ofrecer soluciones digitales personalizadas y proporcionar un servicio al cliente excepcional para asegurar resultados sobresalientes.
+
+## Valores:
+> **Innovación**
+Buscamos siempre nuevas ideas y soluciones creativas para ofrecer a nuestros clientes productos web modernos y eficaces.
+
+>**Calidad**
+Nos comprometemos a entregar trabajos de alta calidad que sean visualmente atractivos y funcionales.
+
+>**Compromiso con el Cliente**
+Valoramos la satisfacción del cliente y ofrecemos un servicio personalizado con comunicación abierta y honesta.
+
+>**Creatividad**
+Diseñamos soluciones web únicas que capturan la esencia de cada negocio y destacan en el mercado digital.
+
+>**Transparencia**
+Operamos con honestidad y claridad en todos nuestros procesos, costos y expectativas.
+
+>**Responsabilidad**
+Asumimos la responsabilidad de nuestras acciones y decisiones con integridad y profesionalismo.
+
+>**Adaptabilidad**
+Nos adaptamos a las necesidades cambiantes del mercado y de nuestros clientes para ofrecer soluciones relevantes y efectivas.
+
+>**Orientación a Resultados**
+Nos enfocamos en lograr resultados tangibles y positivos para los objetivos de negocio de nuestros clientes.
+
 ## Objetivo:
 
 Crear paginas web creativas, inovadoras, dando nuestro propio aporte creativo y satisfaciendo las necesidades de  nuestros clientes.
@@ -59,37 +91,7 @@ Para poder separar la información en distintas paginas, dandole a acada una su 
 >**Mantenimiento y Actualización:** Establecer un plan de mantenimiento regular para asegurar que la información esté actualizada y que el sitio web funcione sin problemas.
 
 
-## Visión:
-Queremos ser la referencia en el desarrollo de soluciones web para negocios, estableciendo nuevos estándares en diseño, funcionalidad e innovación. Nuestro objetivo es ayudar a las empresas a crecer en el mercado digital y ser reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes.
 
-## Misión:
-En KRA, nuestra misión es diseñar páginas web atractivas y funcionales que conecten a las empresas con sus clientes.
-Creamos páginas web efectivas y de alta calidad que impulsan el éxito de los negocios. Nuestro enfoque se centra en entender las necesidades de nuestros clientes, ofrecer soluciones digitales personalizadas y proporcionar un servicio al cliente excepcional para asegurar resultados sobresalientes.
-
-## Valores:
-> **Innovación**
-Buscamos siempre nuevas ideas y soluciones creativas para ofrecer a nuestros clientes productos web modernos y eficaces.
-
->**Calidad**
-Nos comprometemos a entregar trabajos de alta calidad que sean visualmente atractivos y funcionales.
-
->**Compromiso con el Cliente**
-Valoramos la satisfacción del cliente y ofrecemos un servicio personalizado con comunicación abierta y honesta.
-
->**Creatividad**
-Diseñamos soluciones web únicas que capturan la esencia de cada negocio y destacan en el mercado digital.
-
->**Transparencia**
-Operamos con honestidad y claridad en todos nuestros procesos, costos y expectativas.
-
->**Responsabilidad**
-Asumimos la responsabilidad de nuestras acciones y decisiones con integridad y profesionalismo.
-
->**Adaptabilidad**
-Nos adaptamos a las necesidades cambiantes del mercado y de nuestros clientes para ofrecer soluciones relevantes y efectivas.
-
->**Orientación a Resultados**
-Nos enfocamos en lograr resultados tangibles y positivos para los objetivos de negocio de nuestros clientes.
 
 
 
