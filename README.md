@@ -94,9 +94,63 @@ Para poder separar la información en distintas páginas, dandole a cada una su 
 
 >**Mantenimiento y Actualización:** Establecer un plan de mantenimiento regular para asegurar que la información esté actualizada y que el sitio web funcione sin problemas.
 
+## Plan de Trabajo: 
+
+Descripcción del plan de Trabajo: 
+
+>**1.Aceptación del Proyecto:**
+
+Conocer el problema, enfocándonos en las situaciones que nuestro cliente quiere abarcar y conforme a esto, establecer una correcta solución.
+
+Definición de Objetivos y Alcance:
+Establecer claramente qué se quiere lograr con la página web: promover la cultura del pueblo mágico, aumentar el turismo, proporcionar información útil a visitantes, dar a conocer la gastronomía, facilitar la información).
+Determinar qué funcionalidades y características específicas debe tener la página web para cumplir con los objetivos.
+
+Recolección de Requerimientos:
+Requerimientos Funcionales y No Funcionales: Documentar detalladamente las funciones que debe cumplir la página.
+
+>**2.- Desarrollo:** 
+Selección de Tecnologías y Plataformas: Elegir las herramientas y tecnologías adecuadas para el desarrollo basado en los requerimientos y el diseño establecido.
+
+Integración y selección de contenido: Realizar una investigación basado en los contenidos que nuestro cliente quiere que abarquemos.
+
+Separación de Información: dividir por secciones la información recabada para poder crear las paginas que integraran nuestro sitio web.
+
+
+>**3. Diseño y Prototipado:** Crear mockups o prototipos de la página web para visualizar cómo se verá y se comportará.
+
+Arquitectura de la Información: Definir la estructura de navegación y organización del contenido para garantizar una experiencia de usuario intuitiva.
+
+Bocetado/Wireframe: Establecer los primeros diseños de como quedaría la pagina web.
+
+Maquetado:Crear la vista previa de como quedaría la pagina conforme al boceto aprobado.
+
+Elección de Estilos: El cliente elegirá el estilo que le gustaría que llevara su pagina, también realiza observaciones sobre las propuestas dadas y puede corregir o dar ideas más especificas.
+
+>**4.- Pruebas y Evaluación:**
+
+Desarrollo Front-end y Back-end: Implementar el diseño y la funcionalidad según las mejores prácticas de desarrollo web.
+
+Pruebas Funcionales y de Usabilidad: Realizar pruebas exhaustivas para asegurar que todas las funciones y características de la página web funcionen correctamente y sean fáciles de usar.
+
+Entrega de Página Web: Se entrega la pagina web correspondiente.
+
+Recabar documentación: Todos los integrantes de K-R-A entregan la documentación correspondiente a los respectivos superiores.
+
+>**5.-Divulgación del sitio y Promoción:** los animadores se encargaran de crear Storyboards para producir videos y animaciones de promoción.
+
+>**6.- Lanzamiento y Mantenimiento:**
+
+Despliegue: Publicar la página web en el servidor y asegurarse de que esté accesible para los usuarios.
+
+Monitoreo y Optimización: Implementar un plan de mantenimiento para realizar actualizaciones periódicas, optimizar el rendimiento y corregir cualquier problema que pueda surgir.
+
+>**7.-Documentación:**
+Durante todo el proceso, es esencial mantener una documentación clara y organizada que registre cada fase del desarrollo.
 
 
 
+## Matriz de Competitividad:
 
 
 # Cliente: Sitios Turisticos de Xicotepec
