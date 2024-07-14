@@ -98,7 +98,7 @@ Para poder separar la información en distintas páginas, dandole a cada una su 
 
 Descripcción del plan de Trabajo: 
 
->**1.Aceptación del Proyecto:**
+>**1.Aceptación del Proyecto:
 
 Conocer el problema, enfocándonos en las situaciones que nuestro cliente quiere abarcar y conforme a esto, establecer una correcta solución.
 
