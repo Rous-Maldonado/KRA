@@ -102,7 +102,7 @@ Para poder separar la información en distintas páginas, dandole a cada una su 
 # Cliente: Sitios Turisticos de Xicotepec
 
 ## Logo del sitio web del cliente
-![]()
+![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
 
 ## Colores 
 En este apertado se muestra los colores utilizados para el sitio web del cliente en base al tema trabajado.
