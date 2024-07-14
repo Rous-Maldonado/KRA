@@ -48,14 +48,14 @@ Crear paginas web creativas, inovadoras, dando nuestro propio aporte creativo y 
 
 ## Problematica:
 
-La poca informacion y divulgación de Xicotepec de juaréz referente a sus sitios turisticos, gastronomia y cultura.
+Los gustos y preferencias en diseño web cambian rapidamente, y una empresa debe mantenerse actualizada con las últimas tendencias para ofrecer servicios relevantes a los clientes.
 
 ## Solución:
 
-Crear un sitio web que abarca diversas paginas con información atractiva, consisa y clara.
+Crear sitios web que abarquen diversas paginas con información atractivas, consisas y claras.
 
 ## Justificacion: ¿Por qué un sitio web?
-Para poder separar la información en distintas paginas, dandole a acada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de informacion que más les interese y que puedan acceder a ella facilmente pero tambien capturar su atención hacia los demás paginas.
+Para poder separar la información en distintas paginas, dandole a acada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de informacion que más les interese y que puedan acceder a ella facilmente pero tambien capturar su atención hacia los demás páginas.
 
 ## Diagrama de contexto: ##
 
