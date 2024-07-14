@@ -12,7 +12,20 @@ Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Ma
 
 ## Objetivo:
 
-Mejorar las paginas informativas existentes con información actualizada, dando nuestro propio aporte creativo.
+Crear paginas web creativas, inovadoras, dando nuestro propio aporte creativo y satisfaciendo las necesidades de  nuestros clientes.
+
+## Problematica:
+
+La poca informacion y divulgación de Xicotepec de juaréz referente a sus sitios turisticos, gastronomia y cultura.
+
+## Solución:
+
+Crear un sitio web que abarca diversas paginas con información atractiva, consisa y clara.
+
+## Justificacion: ¿Por qué un sitio web?
+Para poder separar la información en distintas paginas, dandole a acada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de informacion que más les interese y que puedan acceder a ella facilmente pero tambien capturar su atención hacia los demás paginas.
+
+
 
 ## Visión:
 Queremos ser la referencia en el desarrollo de soluciones web para negocios, estableciendo nuevos estándares en diseño, funcionalidad e innovación. Nuestro objetivo es ayudar a las empresas a crecer en el mercado digital y ser reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes.
@@ -47,13 +60,6 @@ Nos adaptamos a las necesidades cambiantes del mercado y de nuestros clientes pa
 Nos enfocamos en lograr resultados tangibles y positivos para los objetivos de negocio de nuestros clientes.
 
 
-## Problematica:
-
-La poca informacion y divulgación de Xicotepec de juaréz referente a sus sitios turisticos, gastronomia y cultura.
-
-## Solución:
-
-Sitio web que abarca diversas paginas con información atractiva, consisa y clara.
 
 # Cliente: Sitios Turisticos de Xicotepec
 
