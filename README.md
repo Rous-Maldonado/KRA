@@ -58,8 +58,10 @@ Los gustos y preferencias en diseño web cambian rapidamente, y una empresa debe
 
 Crear sitios web que abarquen diversas páginas con información atractiva, consisa y clara.
 
-## Justificacion: ¿Por qué un sitio web?
+## ¿Por qué un sitio web?
 Para poder separar la información en distintas páginas, dandole a cada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de información que más les interese y que puedan acceder a ella facilmente pero también capturar su atención hacia las demás páginas.
+
+## Justificación del Sitio Web:
 
 ## Diagrama de contexto: ##
 
@@ -149,18 +151,18 @@ Monitoreo y Optimización: Implementar un plan de mantenimiento para realizar ac
 Durante todo el proceso, es esencial mantener una documentación clara y organizada que registre cada fase del desarrollo.
 
 
-
 ## Matriz de Competitividad:
 
+## Bocetos/Wireframe:
+
+## Maquetado con diferentes estilos:
+
+## Diseño/Avances de la pagina web de forma local:
 
 # Cliente: Sitios Turisticos de Xicotepec
 
 ## Logo del sitio web del cliente
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
-
-## Colores 
-En este apertado se muestra los colores utilizados para el sitio web del cliente en base al tema trabajado.
-
 
 ## Objetivo:
 El objetivo es presentar a Xicotepec de Juárez, ubicado en el estado de Puebla, como un destino turístico atractivo y memorable. Su prioridad sera informar a los visitantes y habitantes sobre los distintos puntos turísticos, la rica historia del lugar y las diversas actividades disponibles. La página ofrecerá información detallada sobre cómo llegar, promoviendo la accesibilidad en todo momento. Además, se destacarán los aspectos culturales, naturales y gastronómicos que hacen de Xicotepec un Pueblo Mágico único,fomentando el turismo y el aprecio por esta región. Al proporcionar una experiencia en línea completa y enriquecedora, se espera aumentar el interés turístico y fortalecer la identidad cultural de Xicotepec.
