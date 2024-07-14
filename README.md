@@ -26,38 +26,39 @@ Crear un sitio web que abarca diversas paginas con información atractiva, consi
 Para poder separar la información en distintas paginas, dandole a acada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de informacion que más les interese y que puedan acceder a ella facilmente pero tambien capturar su atención hacia los demás paginas.
 
 ## Diagrama de contexto: ##
-Requerimientos funcionales:
 
-Galería de Atractivos Turísticos:Mostrar imágenes de los lugares de interés del pueblo mágico para capturar la atención del usuario.
+## Requerimientos funcionales: ##
 
-Información de Eventos Locales: Establecer un calendario o información de eventos culturales, festivales, y actividades especiales.
+>**Galería de Atractivos Turísticos:Mostrar imágenes de los lugares de interés del pueblo mágico para capturar la atención del usuario.
 
-Opciones de Alojamiento: Permitir a los usuarios buscar y reservar hoteles, hostales o casas de huéspedes, además de conocer sus costos y servicios.
+>**Información de Eventos Locales: Establecer un calendario o información de eventos culturales, festivales, y actividades especiales.
 
-Guía de Restaurantes y Gastronomía: Listar restaurantes, cafeterías y lugares destacados para probar la comida local.
+>**Opciones de Alojamiento: Permitir a los usuarios buscar y reservar hoteles, hostales o casas de huéspedes, además de conocer sus costos y servicios.
 
-Google Maps: Integrar mapa para mostrar la ubicación de los puntos de interés turístico y la ubicación de Xicotepec entre los pueblos mágicos la Sierra Norte.
+>**Guía de Restaurantes y Gastronomía: Listar restaurantes, cafeterías y lugares destacados para probar la comida local.
 
-Información de Transporte: Proporcionar detalles sobre cómo llegar/moverse en Xicotepec desde diferentes ubicaciones, incluyendo opciones de transporte público y privado.
+>**Google Maps: Integrar mapa para mostrar la ubicación de los puntos de interés turístico y la ubicación de Xicotepec entre los pueblos mágicos la Sierra Norte.
 
-Recomendar Actividades: Sugerir actividades como senderismo, tours guiados, deportes acuáticos, entre otros.
+>**Información de Transporte: Proporcionar detalles sobre cómo llegar/moverse en Xicotepec desde diferentes ubicaciones, incluyendo opciones de transporte público y privado.
 
-Apartado de Dudas y Opiniones: Permitir a los visitantes dejar comentarios y dudas que tengan para tener una mejor experiencia.
+>**Recomendar Actividades: Sugerir actividades como senderismo, tours guiados, deportes acuáticos, entre otros.
+
+>**Apartado de Dudas y Opiniones: Permitir a los visitantes dejar comentarios y dudas que tengan para tener una mejor experiencia.
 
 
-Requerimientos NO funcionales:
+## Requerimientos NO funcionales: ##
 
-Rendimiento y Tiempo de Carga: La página debe cargar rápidamente para mejorar la experiencia del usuario y reducir la tasa de abandono.
+>**Rendimiento y Tiempo de Carga: La página debe cargar rápidamente para mejorar la experiencia del usuario y reducir la tasa de abandono.
 
-Compatibilidad entre Dispositivos:
+>**Compatibilidad entre Dispositivos:
 
-Asegurarse de que la página sea completamente funcional y se vea bien en distintos tipos de dispositivos.
+>**Asegurarse de que la página sea completamente funcional y se vea bien en distintos tipos de dispositivos.
 
-Escalabilidad: Diseñar la página para que pueda manejar un aumento en el tráfico web durante períodos de alta demanda turística.
+>**Escalabilidad: Diseñar la página para que pueda manejar un aumento en el tráfico web durante períodos de alta demanda turística.
 
-Accesibilidad: Si es aplicable, ofrecer la página en varios idiomas para atraer a turistas internacionales.
+>**Accesibilidad: Si es aplicable, ofrecer la página en varios idiomas para atraer a turistas internacionales.
 
-Mantenimiento y Actualización: Establecer un plan de mantenimiento regular para asegurar que la información esté actualizada y que el sitio web funcione sin problemas.
+>**Mantenimiento y Actualización: Establecer un plan de mantenimiento regular para asegurar que la información esté actualizada y que el sitio web funcione sin problemas.
 
 
 ## Visión:
