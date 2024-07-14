@@ -8,7 +8,7 @@ Es una empresa diseñada con fines creativos y de desarrallo de paginas web.
 
 ## ¿Quienes forman parte de esto?
 
-Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Maria de los Angeles Garcia Cortez y Karla Yulenni Dominguez Amador.
+Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Maria de los Angeles Garcia Cortez y Karla Yulenni Domínguez Amador.
 
 ## Visión:
 Queremos ser la referencia en el desarrollo de soluciones web para negocios, estableciendo nuevos estándares en diseño, funcionalidad e innovación. Nuestro objetivo es ayudar a las empresas a crecer en el mercado digital y ser reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes.
@@ -52,10 +52,10 @@ Los gustos y preferencias en diseño web cambian rapidamente, y una empresa debe
 
 ## Solución:
 
-Crear sitios web que abarquen diversas paginas con información atractivas, consisas y claras.
+Crear sitios web que abarquen diversas páginas con información atractiva, consisa y clara.
 
 ## Justificacion: ¿Por qué un sitio web?
-Para poder separar la información en distintas paginas, dandole a acada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de informacion que más les interese y que puedan acceder a ella facilmente pero tambien capturar su atención hacia los demás páginas.
+Para poder separar la información en distintas páginas, dandole a cada una su propio enfoque pero integrandolas en un mismo lugar, haceindo que los visitantes puedan identificar la parte de información que más les interese y que puedan acceder a ella facilmente pero también capturar su atención hacia las demás páginas.
 
 ## Diagrama de contexto: ##
 
@@ -98,4 +98,4 @@ Para poder separar la información en distintas paginas, dandole a acada una su 
 # Cliente: Sitios Turisticos de Xicotepec
 
 ## Objetivo:
-El objetivo es presentar a Xicotepec de Juárez, ubicado en el estado de Puebla, como un destino turístico atractivo y memorable. Su prioridad sera informar a los visitantes y habitantes sobre los distintos puntos turísticos, la rica historia del lugar y las diversas actividades disponibles. La página ofrecerá información detallada sobre cómo llegar, promoviendo la accesibilidad en todo momento. Además, se destacarán los aspectos culturales, naturales y gastronómicos que hacen de Xicotepec un Pueblo Mágico único,fomentando el turismo y el aprecio por esta región. Al proporcionar una experiencia en línea completa y enriquecedora, se espera aumentar el interés turístico y fortalecer la identidad cultural de Xicotepec
+El objetivo es presentar a Xicotepec de Juárez, ubicado en el estado de Puebla, como un destino turístico atractivo y memorable. Su prioridad sera informar a los visitantes y habitantes sobre los distintos puntos turísticos, la rica historia del lugar y las diversas actividades disponibles. La página ofrecerá información detallada sobre cómo llegar, promoviendo la accesibilidad en todo momento. Además, se destacarán los aspectos culturales, naturales y gastronómicos que hacen de Xicotepec un Pueblo Mágico único,fomentando el turismo y el aprecio por esta región. Al proporcionar una experiencia en línea completa y enriquecedora, se espera aumentar el interés turístico y fortalecer la identidad cultural de Xicotepec.
