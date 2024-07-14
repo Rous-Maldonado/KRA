@@ -6,6 +6,9 @@ Creación de una pagina Web
 
 Es una empresa diseñada con fines creativos y de desarrallo de paginas web.
 
+## Logo de la empresa
+![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-KRA.jpg)
+
 ## ¿Quienes forman parte de esto?
 
 Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Maria de los Angeles Garcia Cortez y Karla Yulenni Domínguez Amador.
