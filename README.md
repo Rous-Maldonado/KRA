@@ -2,12 +2,13 @@
 
 Creación de una pagina Web
 
+## Logo de la empresa
+![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-KRA.jpg)
+
+
 # ¿Que es KRA?
 
 Es una empresa diseñada con fines creativos y de desarrallo de paginas web.
-
-## Logo de la empresa
-![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-KRA.jpg)
 
 ## ¿Quienes forman parte de esto?
 
