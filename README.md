@@ -100,6 +100,7 @@ Para poder separar la información en distintas páginas, dandole a cada una su 
 
 Descripcción del plan de Trabajo: 
 
+
 >**1.Aceptación del Proyecto:**
 
 Conocer el problema, enfocándonos en las situaciones que nuestro cliente quiere abarcar y conforme a esto, establecer una correcta solución.
@@ -149,6 +150,8 @@ Monitoreo y Optimización: Implementar un plan de mantenimiento para realizar ac
 
 >**7.-Documentación:**
 Durante todo el proceso, es esencial mantener una documentación clara y organizada que registre cada fase del desarrollo.
+
+## Organigrama 
 
 
 ## Matriz de Competitividad:
