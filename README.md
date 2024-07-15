@@ -157,6 +157,7 @@ Durante todo el proceso, es esencial mantener una documentación clara y organiz
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/Organigrama.jpg)
 
 ## Matriz de Competitividad:
+![](https://github.com/Rous-Maldonado/KRA/blob/main/Matriz.png)
 
 ## Bocetos/Wireframe:
 
@@ -173,6 +174,16 @@ Durante todo el proceso, es esencial mantener una documentación clara y organiz
 
 
 ## Maquetado con diferentes estilos:
+Estilo 1:
+![](https://github.com/Rous-Maldonado/KRA/blob/main/1.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/3.png)
+
+Estilo 2:
+![](https://github.com/Rous-Maldonado/KRA/blob/main/estilo2.png)
+
+Estilo 1:
+![](https://github.com/Rous-Maldonado/KRA/blob/main/estilo3.png)
+
 
 ## Diseño/Avances de la pagina web de forma local:
 
