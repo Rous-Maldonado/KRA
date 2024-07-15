@@ -160,6 +160,18 @@ Durante todo el proceso, es esencial mantener una documentación clara y organiz
 
 ## Bocetos/Wireframe:
 
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto1.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto2.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto3.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto4.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto5.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto6.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto7.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto8.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto9.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/boceto10.png)
+
+
 ## Maquetado con diferentes estilos:
 
 ## Diseño/Avances de la pagina web de forma local:
