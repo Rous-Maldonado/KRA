@@ -151,8 +151,10 @@ Monitoreo y Optimización: Implementar un plan de mantenimiento para realizar ac
 >**7.-Documentación:**
 Durante todo el proceso, es esencial mantener una documentación clara y organizada que registre cada fase del desarrollo.
 
-## Organigrama 
+![](https://github.com/Rous-Maldonado/KRA/blob/main/Plan%20de%20trabajo.png)
 
+## Organigrama 
+![](https://github.com/Rous-Maldonado/KRA/blob/main/Organigrama.jpg)
 
 ## Matriz de Competitividad:
 
