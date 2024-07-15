@@ -186,6 +186,7 @@ Estilo 1:
 
 
 ## Diseño/Avances de la pagina web de forma local:
+![](https://github.com/Rous-Maldonado/KRA/blob/main/pagina%20web.png)
 
 # Cliente: Sitios Turisticos de Xicotepec
 
