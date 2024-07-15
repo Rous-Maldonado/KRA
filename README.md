@@ -164,8 +164,12 @@ Durante todo el proceso, es esencial mantener una documentación clara y organiz
 
 # Cliente: Sitios Turisticos de Xicotepec
 
-## Logo del sitio web del cliente
+## Logo y colores del sitio web del cliente
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
+
+1.**Colores:** Se utiliza una paleta de colores cálidos y naturales que reflejan la esencia y belleza natural de Xicotepec de Juárez, también, colores con tonos verdes, marrones y azules que evocan naturaleza y tranquilidad.
+
+2.**Tipografía:** Se elige una tipografía legible y profesional para asegurar una fácil lectura y una rápida navegación, mientras se mantiene coherencia con la identidad visual del pueblo mágico.
 
 ## Objetivo:
 El objetivo es presentar a Xicotepec de Juárez, ubicado en el estado de Puebla, como un destino turístico atractivo y memorable. Su prioridad sera informar a los visitantes y habitantes sobre los distintos puntos turísticos, la rica historia del lugar y las diversas actividades disponibles. La página ofrecerá información detallada sobre cómo llegar, promoviendo la accesibilidad en todo momento. Además, se destacarán los aspectos culturales, naturales y gastronómicos que hacen de Xicotepec un Pueblo Mágico único,fomentando el turismo y el aprecio por esta región. Al proporcionar una experiencia en línea completa y enriquecedora, se espera aumentar el interés turístico y fortalecer la identidad cultural de Xicotepec.
