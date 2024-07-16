@@ -17,6 +17,10 @@ Somos un equipos de mujeres estudiantes: Maria del Rosario Maldonado Hilario, Ma
 ## Organigrama 
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/Organigrama.jpg)
 
+## Objetivo:
+
+Crear paginas web creativas, inovadoras, dando nuestro propio aporte creativo y satisfaciendo las necesidades de  nuestros clientes.
+
 ## Visión:
 Queremos ser la referencia en el desarrollo de soluciones web para negocios, estableciendo nuevos estándares en diseño, funcionalidad e innovación. Nuestro objetivo es ayudar a las empresas a crecer en el mercado digital y ser reconocidos por nuestra excelencia y compromiso con el éxito de nuestros clientes, y ser la elección en el mercado para desarrollar paginas web a nivel regional.
 
@@ -49,9 +53,6 @@ Nos adaptamos a las necesidades cambiantes del mercado y de nuestros clientes pa
 >**Orientación a Resultados**
 Nos enfocamos en lograr resultados tangibles y positivos para los objetivos de negocio de nuestros clientes.
 
-## Objetivo:
-
-Crear paginas web creativas, inovadoras, dando nuestro propio aporte creativo y satisfaciendo las necesidades de  nuestros clientes.
 
 # Cliente: Sitios Turisticos de Xicotepec
 
