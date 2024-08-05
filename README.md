@@ -3,7 +3,7 @@
 Creación de una pagina Web
 
 ## Logo de la empresa
-![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-KRA.jpg)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/Logo.png)
 
 
 # ¿Que es KRA?
