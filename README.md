@@ -198,6 +198,7 @@ Estilo 3:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
 
 1.**Colores:** Se utiliza una paleta de colores alegres,divertidos y naturales que reflejan la esencia y belleza natural de Xicotepec de Juárez, colores con tonos verdes  y azules que evocan naturaleza y tranquilidad.
+
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/Paleta%20de%20Colores.png)
 
 
@@ -216,7 +217,7 @@ Estilo 3:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/9.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/10.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/11.png)
-## Animación de Promocion del Sitio:
+## Animación de Promoción del Sitio:
 
 
 
