@@ -207,8 +207,8 @@ Estilo 3:
 ## Entrega Final de la Página web:
 
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/web.png)
-![](https://github.com/Rous-Maldonado/KRA/blob/main/web.png)
-![](https://github.com/Rous-Maldonado/KRA/blob/main/web.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/webb.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/webb.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/4.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/5.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/6.png)
