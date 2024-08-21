@@ -217,7 +217,7 @@ Estilo 3:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/9.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/10.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/11.png)
-## Animación de Promoción del Sitio:
+
 
 
 
