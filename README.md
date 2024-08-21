@@ -198,21 +198,22 @@ Estilo 3:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
 
 1.**Colores:** Se utiliza una paleta de colores alegres,divertidos y naturales que reflejan la esencia y belleza natural de Xicotepec de Juárez, colores con tonos verdes  y azules que evocan naturaleza y tranquilidad.
+![]()
 
 
 2.**Tipografía:** Se elige una tipografía legible y profesional para asegurar una fácil lectura y una rápida navegación, mientras se mantiene coherencia con la identidad visual del pueblo mágico.
 ## Entrega Final de la Pagina web:
-![](https://github.com/Rous-Maldonado/KRA)
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
+![](https://github.com/Rous-Maldonado/KRA/blob/main/1.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/2.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/3.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/4.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/5.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/6.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/7.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/8.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/9.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/10.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/11.png)
 ## Base de Datos con el Metodo CRUD: 
 ## Link para Encontrar en el Servidor:
 ## Animación de Promocion del Sitio:
