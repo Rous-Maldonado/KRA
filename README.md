@@ -190,15 +190,21 @@ Estilo 3:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/estilo3.png)
 
 
-## Diseño/Avances de la pagina web de forma local:
+## Primera Entrega de la Página web:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/pagina%20web.png)
 
 
 ## Logo y colores del sitio web del cliente
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/logo-turismo.jpg)
 
-1.**Colores:** Se utiliza una paleta de colores cálidos y naturales que reflejan la esencia y belleza natural de Xicotepec de Juárez, también, colores con tonos verdes, marrones y azules que evocan naturaleza y tranquilidad.
+1.**Colores:** Se utiliza una paleta de colores alegres,divertidos y naturales que reflejan la esencia y belleza natural de Xicotepec de Juárez, colores con tonos verdes  y azules que evocan naturaleza y tranquilidad.
+
 
 2.**Tipografía:** Se elige una tipografía legible y profesional para asegurar una fácil lectura y una rápida navegación, mientras se mantiene coherencia con la identidad visual del pueblo mágico.
+## Entrega Final de la Pagina web:
+## Base de Datos con el Metodo CRUD: 
+## Link para Encontrar en el Servidor:
+## Animación de Promocion del Sitio:
+
 
 
