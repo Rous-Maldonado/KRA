@@ -202,7 +202,7 @@ Estilo 3:
 
 2.**Tipografía:** Se elige una tipografía legible y profesional para asegurar una fácil lectura y una rápida navegación, mientras se mantiene coherencia con la identidad visual del pueblo mágico.
 ## Entrega Final de la Pagina web:
-![]()
+![](https://github.com/Rous-Maldonado/KRA)
 ![]()
 ![]()
 ![]()
