@@ -179,14 +179,11 @@ Durante todo el proceso, es esencial mantener una documentación clara y organiz
 
 
 ## Maquetado con diferentes estilos:
-Estilo 1:
-![](https://github.com/Rous-Maldonado/KRA/blob/main/1.png)
-![](https://github.com/Rous-Maldonado/KRA/blob/main/3.png)
 
-Estilo 2:
+Estilo 1:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/estilo2.png)
 
-Estilo 3:
+Estilo 2:
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/estilo3.png)
 
 
@@ -208,7 +205,7 @@ Estilo 3:
 
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/web.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/webb.png)
-![](https://github.com/Rous-Maldonado/KRA/blob/main/webb.png)
+![](https://github.com/Rous-Maldonado/KRA/blob/main/webbb.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/4.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/5.png)
 ![](https://github.com/Rous-Maldonado/KRA/blob/main/6.png)
